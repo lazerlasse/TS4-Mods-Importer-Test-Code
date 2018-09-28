@@ -1,0 +1,15 @@
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\bin\Debug\The Sims 4 - Mods Administrator.exe.config
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\bin\Debug\The Sims 4 - Mods Administrator.exe
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\bin\Debug\The Sims 4 - Mods Administrator.pdb
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\The Sims 4 - Mods Administrator.csprojResolveAssemblyReference.cache
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\MainWindow.g.cs
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\App.g.cs
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\The Sims 4 - Mods Administrator_MarkupCompile.cache
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\The Sims 4 - Mods Administrator_MarkupCompile.lref
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\MainWindow.baml
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\The Sims 4 - Mods Administrator.g.resources
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\The_Sims_4___Mods_Administrator.Properties.Resources.resources
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\The Sims 4 - Mods Administrator.csproj.GenerateResource.Cache
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\The Sims 4 - Mods Administrator.exe
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\obj\Debug\The Sims 4 - Mods Administrator.pdb
+C:\OneDrive\Programmering\The Sims 4 - Mods Administrator\The Sims 4 - Mods Administrator\bin\Debug\SharpCompress.dll
